@@ -1,4 +1,4 @@
-package Lab01;
+package week01;
 
 import java.util.Arrays;
 
